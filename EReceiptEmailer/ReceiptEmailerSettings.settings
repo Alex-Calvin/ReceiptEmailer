@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EReceiptEmailer" GeneratedClassName="EReceiptEmailerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReconEmailToSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ReconEmailCCSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ReconEmailBCCSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailFromSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailBCCSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailCCSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailArchiveUsernameSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailArchivePasswordSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailUndeliverableUsernameSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailUndeliverablePasswordSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailUndeliverableWaitTimeMinutesSetting" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailTestModeToAddressSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailTestModeEnabledSetting" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eReceiptEmailSubjectSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
